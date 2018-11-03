@@ -1,0 +1,1 @@
+The trick of reading a text file with stringsAsGFactors = FALSE argument will save some time.
